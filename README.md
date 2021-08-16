@@ -1,4 +1,4 @@
-Hello! I am a Computer Software Engineering student at the University of Alberta. I enjoy learning new software technologies. Outside of software programming, I enjoy learning about physics.
+Hello! I am a Computer Software Engineering undergraduate at the University of Alberta. I enjoy learning new software technologies. Outside of software programming, I enjoy learning about physics.
 
 <!---
 albert-dinh-01/albert-dinh-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
