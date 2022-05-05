@@ -1,6 +1,6 @@
 Hello! I am a Computer Software Engineering undergraduate at the University of Alberta. I enjoy learning new software technologies. Outside of software programming, I learn about physics.
 
-I list some projects that are live:
+Here are some projects I built:
 
 * Physics Simulation: https://ad-physics-simulation.herokuapp.com
 * My personal site: https://albertdinh.com
