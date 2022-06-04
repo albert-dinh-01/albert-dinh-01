@@ -1,4 +1,4 @@
-Hello! I am a Computer Software Engineering undergraduate at the University of Alberta. I enjoy learning new software technologies. Outside of software programming, I care about physics. In my free time, I either read, watch hockey, dance, run or work out in the gym.
+Hello! I am a Computer Software Engineering undergraduate at the University of Alberta. I enjoy learning new software technologies. Outside of software programming, I care about physics. In my free time, I either read, watch hockey, dance, run or work out in the gym. Go Oilers go!
 
 Here are some projects I built:
 
