@@ -18,7 +18,6 @@ Welcome to my GitHub portfolio! I'm a **Software Engineer** with expertise in **
 ## 📬 Let's Connect
 
 - **Email**: [adinh.1867@gmail.com](mailto:adinh.1867@gmail.com)
-- **LinkedIn**: [Albert Dinh](https://www.linkedin.com/in/albert-dinh-01)
 
 ## 📜 License
 
